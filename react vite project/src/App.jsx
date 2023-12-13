@@ -5,7 +5,7 @@ import FeaturesData from "./Features";
 
 const cardData = [
   { name: "Karachi", rating: "5.00", date: "12-12-2023", charges: "500" },
-  { name: "Karachi", rating: "5.00", date: "12-12-2023", charges: "100" },
+  { name: "Lahore", rating: "5.00", date: "12-12-2023", charges: "100" },
   { name: "Karachi", rating: "5.00", date: "12-12-2023", charges: "100" },
   { name: "Karachi", rating: "5.00", date: "12-12-2023", charges: "100" },
   { name: "Karachi", rating: "5.00", date: "12-12-2023", charges: "100" },
